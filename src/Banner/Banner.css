@@ -1,0 +1,6 @@
+.banner{
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/spotify-f26c5.appspot.com/o/vatar.jpg?alt=media&token=91fde87b-73ef-42d6-8d2b-8c0f10fa1495');
+    background-position: top center;
+    background-size: cover;
+    padding: 5% 20% 40% 20%;
+}
